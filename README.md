@@ -1,1 +1,1 @@
-//Verificar o porque user está retornando null antes de voltar a ver o vídoe
+
